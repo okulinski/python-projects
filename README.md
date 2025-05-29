@@ -30,3 +30,9 @@ This repository contains projects that I have coded in the python language.
 - Allows for users to choose difficulty level in guessing the number. 
 - Displays if the inputed number was too low or too high. 
 - Asks user if they would like to play again. 
+### Project 6: Create Task
+**Summary**: This program chooses a food item from the crafted menu based on the users dietary restrictions.
+- Has a verstatile array of foods that can work for all dietary restrictions.
+- Uses multiple lists that work together to bring the outcome to the users.
+- Displays images of the foods recommended for the user.
+### Project 7: 
