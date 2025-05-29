@@ -35,4 +35,8 @@ This repository contains projects that I have coded in the python language.
 - Has a verstatile array of foods that can work for all dietary restrictions.
 - Uses multiple lists that work together to bring the outcome to the users.
 - Displays images of the foods recommended for the user.
-### Project 7: 
+### Project 7: Dog Breeds
+**Summmary**: This program recommends a dog breed for a user based off the users preferences including size and purpose.
+- Has a long list of dogbreeds, each one combined with it's traits, size, and average weight.
+- Asks the user about the size they want in their dog to recommend the correct one.
+- Displays a photo of the recommended dog breed.
